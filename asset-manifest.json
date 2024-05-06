@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/front-end-for-mongodb/static/css/main.7acaea2f.css",
-    "main.js": "/front-end-for-mongodb/static/js/main.661ae56f.js",
+    "main.css": "/front-end-for-mongodb/static/css/main.665a21ab.css",
+    "main.js": "/front-end-for-mongodb/static/js/main.df174af6.js",
+    "static/css/104.1200cfe5.chunk.css": "/front-end-for-mongodb/static/css/104.1200cfe5.chunk.css",
+    "static/js/104.e206e6a1.chunk.js": "/front-end-for-mongodb/static/js/104.e206e6a1.chunk.js",
+    "static/js/518.eae89f24.chunk.js": "/front-end-for-mongodb/static/js/518.eae89f24.chunk.js",
+    "static/media/sprite-icon.svg": "/front-end-for-mongodb/static/media/sprite-icon.522b37125ab1dddda7e5594f4c9b4fc9.svg",
     "index.html": "/front-end-for-mongodb/index.html",
-    "main.7acaea2f.css.map": "/front-end-for-mongodb/static/css/main.7acaea2f.css.map",
-    "main.661ae56f.js.map": "/front-end-for-mongodb/static/js/main.661ae56f.js.map"
+    "main.665a21ab.css.map": "/front-end-for-mongodb/static/css/main.665a21ab.css.map",
+    "main.df174af6.js.map": "/front-end-for-mongodb/static/js/main.df174af6.js.map",
+    "104.1200cfe5.chunk.css.map": "/front-end-for-mongodb/static/css/104.1200cfe5.chunk.css.map",
+    "104.e206e6a1.chunk.js.map": "/front-end-for-mongodb/static/js/104.e206e6a1.chunk.js.map",
+    "518.eae89f24.chunk.js.map": "/front-end-for-mongodb/static/js/518.eae89f24.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.661ae56f.js"
+    "static/css/main.665a21ab.css",
+    "static/js/main.df174af6.js"
   ]
 }
